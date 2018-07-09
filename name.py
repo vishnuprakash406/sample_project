@@ -1,4 +1,5 @@
 #to read customer names
+#To read customer names
 a1=['i1','pen',100,5]
 a2=['i2','pencil',8,5]
 a3=['i3','rice',50,50]
