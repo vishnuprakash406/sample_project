@@ -6,6 +6,11 @@ for i in range(0,n):
 print("the unsorted array is",arr)
 arr.sort()
 print ("sorted list is : ",arr)
+<<<<<<< HEAD
+#hello
+=======
+#program for sort
+>>>>>>> 4bd3ad2d62a567268fff27612510569216b0ca24
 
 
 #This is sooryab
