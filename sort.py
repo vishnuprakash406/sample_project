@@ -6,5 +6,6 @@ for i in range(0,n):
 print("the unsorted array is",arr)
 arr.sort()
 print ("sorted list is : ",arr)
+#program for sort
 
 
